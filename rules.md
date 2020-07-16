@@ -2,8 +2,8 @@
 By playing on Firestarter Realms, you agree to the following rules. If you notice that someone is breaking any of the below rules, it is your responsibility to report it to the proper staff. If there are no staff online, use `/report` to send a report which can be handled once staff is available.
 
 ### Modified client
-* Use of Badlion client, OptiFine, and some mods such as Voxelmap, Xaero's Minimap, and JourneyMap (along with other minimap mods that do not disclose underground blocks) is allowed.
-* Use of utility clients is bannable (no Wurst, Aristois, etc).
+* Use of [Badlion](https://client.badlion.net/) client, [OptiFine](https://www.optifine.net/home), and some mods such as [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap), [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap), and [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (along with other minimap mods that do not disclose underground blocks) is allowed.
+* Use of utility clients is bannable (no [Wurst](https://www.wurstclient.net/), [Aristois](https://aristois.net/), etc).
 * Some mods, such as [Tweakaroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo), are bannable if used on the server.
 
 ### Toxic behavior
@@ -29,7 +29,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * Stealing from shop chests you have access to is bannable.
 
 ### Claims
-* Claims must be at least 100 of one another. Resizing a claim towards the direction of another claim may be bannable under this rule.
+* Claims must be at least 100 blocks of one another. Resizing a claim towards the direction of another claim may be bannable under this rule.
 
 ### Chat spam and advertising
 * It is okay to mention well-known servers and services in the chat, but advertising a private or malicious server or service is bannable.
