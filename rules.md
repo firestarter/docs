@@ -12,7 +12,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * Cursing is allowed, so long as it is not directed towards any particular person or figure.
 
 ### Griefing
-* Raiding unclaimed cotainers (chests, barrels, anything that stores items) is alright, so long as they are not shop chests.
+* Raiding unclaimed containers (chests, barrels, anything that stores items) is alright, so long as they are not shop chests.
 * Breaking blocks that you did not place, even in unclaimed lands, is bannable.
 * If a player is offline for 3 or more months, you may ask an admin to unclaim one or more of their claims and you will be able to reclaim it. Right-click with a stick on the claimed area to check the age of the claim.
 * It is your responsibility to claim your builds. If your builds are griefed, the griefer will be punished, but your builds will not be rolled back to their previous state.
@@ -42,10 +42,10 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 
 ### Exploiting server issues
 * If you discover a server bug, **do not** exploit it for your own gain. Report this issue directly to an administrator.
-* Irresponsible disclosure of bugs, such as in public chat or in the Discord server, will result in a permanent ban.
+* Irresponsible disclosure of bugs, such as in public chat or the Discord server, will result in a permanent ban.
 
 ### Spreading misinformation/defamantion
-* Intentionally spreading misinformation to hurt the image of the server or any of it's staff or players is strictly bannable.
+* Intentionally spreading misinformation to hurt the image of the server or any of its staff or players is strictly bannable.
 * Defamation will not be tolerated.
 
 ### Alternate account usage (Alts)
@@ -65,7 +65,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 
 ### Inappropriate skins and names
 * Any skin or username that is deemed inappropriate by the staff will result in a ban until it is changed. 
-* This also goes for item names in game.
+* This also goes for item names in-game.
 
 ### Scope of moderation
 * We do **not** moderate anything that takes place outside of the bounds of our server. We only moderate actions on the Firestarter Realms or within the Firestarter Discord server. Anything outside of that is out of our scope of moderation, and you are responsible for moderating yourself.
