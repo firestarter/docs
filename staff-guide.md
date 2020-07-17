@@ -38,9 +38,10 @@ __**Claims:**__
 * Permanent ban - third offense
 
 __**Chat spam and advertising:**__
-* 1 week ban - first offense
-* 1 month ban - second offense
-* Permanent ban - third offense
+* 1 hour mute - first offense
+* 1 week ban - second offense
+* 1 month ban - third offense
+* Permanent ban - fourth offense
 
 __**Racism, offensive language, and discrimination:**__
 * Permanent ban - first offense
