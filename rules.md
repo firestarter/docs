@@ -44,7 +44,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * If you discover a server bug, **do not** exploit it for your own gain. Report this issue directly to an administrator.
 * Irresponsible disclosure of bugs, such as in public chat or the Discord server, will result in a permanent ban.
 
-### Spreading misinformation/defamantion
+### Spreading misinformation/defamation
 * Intentionally spreading misinformation to hurt the image of the server or any of its staff or players is strictly bannable.
 * Defamation will not be tolerated.
 

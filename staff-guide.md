@@ -48,7 +48,7 @@ __**Racism, offensive language, and discrimination:**__
 __**Exploiting server issues:**__
 * Permanent ban - first offense
 
-__**Spreading misinformation/defamantion:**__
+__**Spreading misinformation/defamation:**__
 * Permanent ban - first offense
 
 __**Alternate account usage (Alts):**__
