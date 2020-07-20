@@ -36,7 +36,7 @@ __**Claims:**__
 * 1 month ban - second offense
 * Permanent ban - third offense
 
-__**Chat spam and advertising:**__
+__**Chat, spam, and advertising:**__
 * 1 hour mute - first offense
 * 1 week ban - second offense
 * 1 month ban - third offense

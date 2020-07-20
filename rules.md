@@ -31,9 +31,10 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 ### Claims
 * Claims must be at least 100 blocks of one another. Resizing a claim towards the direction of another claim may be bannable under this rule.
 
-### Chat spam and advertising
+### Chat, spam, and advertising
 * It is okay to mention well-known servers and services in the chat, but advertising a private or malicious server or service is bannable.
 * Chat spam of any kind, including command spam, is bannable.
+* Use only English in main chat. You are allowed to use other languages in private messages, such as /msg or party chat.
 
 ### Racism, offensive language, and discrimination
 * Do not use racist, offensive, or discriminatory language in chat, on signs, in books, in item names, private messages, or anywhere on the server that accepts text.
