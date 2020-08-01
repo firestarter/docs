@@ -17,7 +17,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * If a player is offline for 3 or more months, you may ask an admin to unclaim one or more of their claims and you will be able to reclaim it. Right-click with a stick on the claimed area to check the age of the claim.
 * It is your responsibility to claim your builds. If your builds are griefed, the griefer will be punished, but your builds will not be rolled back to their previous state.
 * Creating lava casts, also frequently referred to as "cobble monsters," counts as griefing and is bannable.
-* Creating teleport traps intended to kill players is bannable.
+* Creating teleport traps, including those intended to kill players, is bannable.
   
 ### Scamming
 * Offering to sell a specific item and instead selling another after a transaction has been made is bannable.
