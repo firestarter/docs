@@ -1,0 +1,46 @@
+[
+    {
+        "title": "🔥 Admins",
+        "color": "#ff8686",
+        "borderColor": "#ed6f6f",
+        "members": [
+            {
+                "uuid": "358208f8-a671-41ed-abfa-4aa7371643fe",
+                "name": "EatingLongFruit",
+                "quote": "hi im fruit and im a bad admin."
+            },
+            {
+                "uuid": "facb6ce6-338c-4bad-981d-e3b24b3453f6",
+                "name": "TechToolbox",
+                "quote": "hi i'm tech and i exist. i also run the server."
+            }
+        ]
+    },
+    {
+        "title": "🔨 Mods",
+        "color": "#ffac7f",
+        "borderColor": "#eb9b71",
+        "members": [
+            {
+                "uuid": "9b6edc28-2ca3-4ede-82b6-777116812905",
+                "name": "iriscow",
+                "quote": "milk"
+            },
+            {
+                "uuid": "375cd155-01a0-4382-8e25-0d6a6e62d1b6",
+                "name": "Meorah",
+                "quote": "meow"
+            },
+            {
+                "uuid": "a9f951eb-e2e9-4c01-aab0-0a94190223e9",
+                "name": "Sleighter",
+                "quote": "a stray bullet finds a nut twice a day"
+            },
+            {
+                "uuid": "ea416375-37d0-4344-b1ea-f6acb370d21b",
+                "name": "Th3SkullR34p3r",
+                "quote": "ask meorah to mine with you"
+            }
+        ]
+    }
+]
