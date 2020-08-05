@@ -28,6 +28,10 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * Betrayal of trust on claims falls under this category and will result in a ban.
 * Stealing from shop chests you have access to is bannable.
 
+### Copyright
+* Selling copyrighted maps that you did not create will result in removal of your shop and potentially a ban.
+* Copyrighting a map you did not create is bannable.
+
 ### Claims
 * Claims must be at least 100 blocks of one another. Resizing a claim towards the direction of another claim may be bannable under this rule.
 

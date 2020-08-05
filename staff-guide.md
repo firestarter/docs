@@ -31,6 +31,11 @@ __**Stealing:**__
 * 1 month ban - second offense
 * Permanent ban - third offense
 
+__**Copyright:**__
+* 1 week ban - first offense
+* 1 month ban - second offense
+* Permanent ban - third offense
+
 __**Claims:**__
 * 1 week ban - first offense
 * 1 month ban - second offense
