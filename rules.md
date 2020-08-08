@@ -13,8 +13,8 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 
 ### Griefing
 * Raiding unclaimed containers (chests, barrels, anything that stores items) is alright, so long as they are not shop chests.
-* Breaking blocks that you did not place, even in unclaimed lands, is bannable.
-* If a player is offline for 3 or more months, you may ask an admin to unclaim one or more of their claims and you will be able to reclaim it. Right-click with a stick on the claimed area to check the age of the claim.
+* Breaking blocks that you did not place, even in unclaimed lands, is bannable. This includes spawners that are not naturally generated.
+* If a player is offline for 3 or more months, you may ask an admin to unclaim one or more of their claims and you will be able to reclaim it. Right-click with a stick on the claimed area to check the age of the claim. Once the claim is yours, you are free to build, edit, or take items. If you lack the claimblocks to reclaim, you will be denied access to the claim until you are capable of claiming it. If another user comes along with enough claimblocks after you had already asked but lacked the claimblocks, the user with the ability to reclaim will be given it. You are free to unclaim these claims at any time.
 * It is your responsibility to claim your builds. If your builds are griefed, the griefer will be punished, but your builds will not be rolled back to their previous state.
 * Creating lava casts, also frequently referred to as "cobble monsters," counts as griefing and is bannable.
 * Creating teleport traps, including those intended to kill players, is bannable.
@@ -34,6 +34,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 
 ### Claims
 * Claims must be at least 100 blocks of one another. Resizing a claim towards the direction of another claim may be bannable under this rule.
+* As a mayor, caught stealing from users who reside in one of your subdivided claims may be bannable.
 
 ### Chat, spam, and advertising
 * It is okay to mention well-known servers and services in the chat, but advertising a private or malicious server or service is bannable.
@@ -66,7 +67,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
   
 ### Drama and discussing punishments 
 * Starting drama or encouraging others to start drama on the server is strictly bannable.
-* If you have a question about someone's ban or punishment, feel free to **privately** message a staff member about it. Do not take it to general chat.
+* If you have a question about someone's ban or punishment, feel free to **privately** message a staff member about it. Do not take it to general chat. Bans are public and posted [here](https://bans.firestartermc.com/bans.php).
 
 ### Inappropriate skins and names
 * Any skin or username that is deemed inappropriate by the staff will result in a ban until it is changed. 
@@ -74,7 +75,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 
 ### Scope of moderation
 * We do **not** moderate anything that takes place outside of the bounds of our server. We only moderate actions on the Firestarter Realms or within the Firestarter Discord server. Anything outside of that is out of our scope of moderation, and you are responsible for moderating yourself.
-* As soon as a conversation moves to private messages (DMs), we cannot moderate what happens.
+* As soon as a conversation moves to private messages (DMs), we cannot moderate what happens. If the conversation is between a player and Firestarter Staff, any threats or messages intended to harm may result in punishment. This is for both the staff member and the player.
 * The job of moderators is to moderate and enforce the rules. They are not necessarily here to help you with gameplay, such as assisting with your builds. Do not waste their time.
 
 ### Store purchases
