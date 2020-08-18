@@ -27,6 +27,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 ### Stealing
 * Betrayal of trust on claims falls under this category and will result in a ban.
 * Stealing from shop chests you have access to is bannable.
+* Keeping weapons obtained with McMMO disarm during combat is considered stealing.
 
 ### Copyright
 * Selling copyrighted maps that you did not create will result in removal of your shop and potentially a ban.
