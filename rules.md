@@ -84,4 +84,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * All store purchases are final. Chargebacks will result in a permanent ban.
 * We do not offer refunds on purchases made unless you do not receive the advertised goods.
 
+### Disclaimer
+* Firestarter ("us", "we", or "our") reserves the right to change these Rules at any time, at its sole discretion, without notice. Any change binds you as soon as you access the https://firestartermc.com (the "Site"), https://store.firestartermc.com (the "Store"), the Firestarter Minecraft Realms (the "Server"), and the Firestarter Discord server (the "Discord Server"). We therefore strongly recommend checking the Rules on a regular basis.
+
 Please make sure to also read our [privacy policy](https://firestartermc.com/privacy).
