@@ -5,6 +5,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * Use of [Badlion](https://client.badlion.net/) client, [OptiFine](https://www.optifine.net/home), and some mods such as [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap), [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap), and [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (along with other minimap mods that do not disclose underground blocks) is allowed.
 * Use of utility clients is bannable (no [Wurst](https://www.wurstclient.net/), [Aristois](https://aristois.net/), etc).
 * Some mods, such as [Tweakaroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo), are bannable if used on the server.
+* Bypassing the AFK kick system in any way, including scripting to simulate player movement, is prohibited. Additionally, auto clickers are prohibited.
 
 ### Toxic behavior
 * Treat everyone with respect.
@@ -83,5 +84,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 ### Store purchases
 * All store purchases are final. Chargebacks will result in a permanent ban.
 * We do not offer refunds on purchases made unless you do not receive the advertised goods.
+
+And most importantly, **use common sense**.
 
 Please make sure to also read our [privacy policy](https://firestartermc.com/privacy).
