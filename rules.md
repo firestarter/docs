@@ -25,6 +25,9 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * Selling deceptive shulkers, i.e. shulkers that display the name of a desirable item in the lore but are instead renamed items of a different type, falls under scamming.
 * Logging off after a trade agreement has been made falls under scamming.
 
+### Auction House
+* Selling renamed items on auction with the purpose of advertising warps, trades and services is not allowed.
+
 ### Stealing
 * Betrayal of trust on claims falls under this category and will result in a ban.
 * Stealing from shop chests you have access to is bannable.
@@ -36,13 +39,15 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 
 ### Claims
 * Claims must be at least 100 blocks of one another. Resizing a claim towards the direction of another claim may be bannable under this rule.
-* As a mayor, caught stealing from users who reside in one of your subdivided claims may be bannable.
+* As a mayor, caught stealing from users who reside in one of your subdivided claims is bannable.
+* Setting a home or warp in another players claim without permission of the claim owner is not allowed. 
 
 ### Chat, spam, and advertising
 * It is okay to mention well-known servers and services in the chat, but advertising a private or malicious server or service is bannable.
-* Chat spam of any kind, including command spam, is bannable.
+* Chat spam of any kind, including command spam and splitting a word in multiple smaller messages, is bannable.
 * It is not okay to discuss politics in public chat. By extension, it is also not okay to disrespect others based on their political views.
 * Use only English in main chat. You are allowed to use other languages in private messages, such as /msg or party chat.
+* Excessive use of capitalization is not allowed. Repeated offenses will result in a (temporary) mute. 
 
 ### Racism, offensive language, and discrimination
 * Do not use racist, offensive, or discriminatory language in chat, on signs, in books, in item names, private messages, or anywhere on the server that accepts text.
@@ -85,6 +90,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * All store purchases are final. Chargebacks will result in a permanent ban.
 * We do not offer refunds on purchases made unless you do not receive the advertised goods.
 
-And most importantly, **use common sense**.
+### Disclaimer
+* Firestarter ("us", "we", or "our") reserves the right to change these Rules at any time, at its sole discretion, without notice. Any change binds you as soon as you access the https://firestartermc.com (the "Site"), https://store.firestartermc.com (the "Store"), the Firestarter Minecraft Realms (the "Server"), and the Firestarter Discord server (the "Discord Server"). We therefore strongly recommend checking the Rules on a regular basis.
 
 Please make sure to also read our [privacy policy](https://firestartermc.com/privacy).
