@@ -41,6 +41,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * Claims must be at least 100 blocks of one another. Resizing a claim towards the direction of another claim may be bannable under this rule.
 * As a mayor, caught stealing from users who reside in one of your subdivided claims is bannable.
 * Setting a home or warp in another players claim without permission of the claim owner is not allowed. 
+* Leaving pets in other peoples claims is not allowed.
 
 ### Chat, spam, and advertising
 * It is okay to mention well-known servers and services in the chat, but advertising a private or malicious server or service is bannable.
