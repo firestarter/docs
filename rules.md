@@ -45,7 +45,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 ### Chat, spam, and advertising
 * It is okay to mention well-known servers and services in the chat, but advertising a private or malicious server or service is bannable.
 * Chat spam of any kind, including command spam and splitting a word in multiple smaller messages, is bannable.
-* It is not okay to discuss politics in public chat. By extension, it is also not okay to disrespect others based on their political views.
+* It is not okay to discuss politics in public chat. By extension, it is also not okay to disrespect others based on their political or religious views.
 * Use only English in main chat. You are allowed to use other languages in private messages, such as /msg or party chat.
 * Excessive use of capitalization is not allowed. Repeated offenses will result in a (temporary) mute. 
 
