@@ -22,6 +22,21 @@
         "borderColor": "#eb9b71",
         "members": [
             {
+                "uuid": "d7043da0-13dd-491d-b4b4-3a5a8ac01b59",
+                "name": "DasBaumJunge",
+                "quote": "-"
+            },
+            {
+                "uuid": "a5597e99-a788-4cd2-96d0-4dedbe86ad3d",
+                "name": "EntropyRaven",
+                "quote": "-"
+            },
+            {
+                "uuid": "7ab439d9-c71d-4520-9e56-036b185c0273",
+                "name": "maretan",
+                "quote": "-"
+            },
+            {
                 "uuid": "375cd155-01a0-4382-8e25-0d6a6e62d1b6",
                 "name": "Meorah",
                 "quote": "meow"
