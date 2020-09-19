@@ -41,7 +41,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * Claims must be at least 100 blocks of one another. Resizing a claim towards the direction of another claim may be bannable under this rule.
 * As a mayor, caught stealing from users who reside in one of your subdivided claims is bannable.
 * Setting a home or warp in another players claim without permission of the claim owner is not allowed. 
-* Leaving pets in claims where you have no trust is not allowed.
+* Leaving pets in claims where you do not have trust is not allowed.
 
 ### Chat, spam, and advertising
 * It is okay to mention well-known servers and services in the chat, but advertising a private or malicious server or service is bannable.
@@ -49,7 +49,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * It is not okay to discuss politics in public chat. By extension, it is also not okay to disrespect others based on their political or religious views.
 * Use only English in main chat. You are allowed to use other languages in private messages, such as /msg or party chat.
 * Excessive use of capitalization is not allowed. Repeated offenses will result in a (temporary) mute. 
-* Sharing with other players that a staff member is vanished, is not allowed. 
+* Announcing that a staff member is vanished is not allowed. 
 
 ### Racism, offensive language, and discrimination
 * Do not use racist, offensive, or discriminatory language in chat, on signs, in books, in item names, private messages, or anywhere on the server that accepts text.
@@ -63,7 +63,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 ### Spreading misinformation/defamation
 * Intentionally spreading misinformation to hurt the image of the server or any of its staff or players is strictly bannable.
 * Defamation will not be tolerated.
-* issuing false reports about other players or staff member is not allowed and will result in a temporary mute.
+* Issuing false player reports is bannable.
 
 ### Alternate account usage (Alts)
 * Any two accounts playing on the same IP address may fall under this category. Staff will prompt you if they notice this.
