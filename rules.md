@@ -49,6 +49,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * It is not okay to discuss politics in public chat. By extension, it is also not okay to disrespect others based on their political or religious views.
 * Use only English in main chat. You are allowed to use other languages in private messages, such as /msg or party chat.
 * Excessive use of capitalization is not allowed. Repeated offenses will result in a (temporary) mute. 
+* Sharing with other players that a staff member is vanished, is not allowed. 
 
 ### Racism, offensive language, and discrimination
 * Do not use racist, offensive, or discriminatory language in chat, on signs, in books, in item names, private messages, or anywhere on the server that accepts text.
@@ -62,6 +63,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 ### Spreading misinformation/defamation
 * Intentionally spreading misinformation to hurt the image of the server or any of its staff or players is strictly bannable.
 * Defamation will not be tolerated.
+* issuing false reports about other players or staff member is not allowed and will result in a temporary mute.
 
 ### Alternate account usage (Alts)
 * Any two accounts playing on the same IP address may fall under this category. Staff will prompt you if they notice this.
