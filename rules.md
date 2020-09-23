@@ -85,8 +85,9 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * This also goes for item names in-game.
 
 ### Scope of moderation
+* Staff have final say when it comes to punishments and moderation. Listen to what they tell you.
 * We do **not** moderate anything that takes place outside of the bounds of our server. We only moderate actions on the Firestarter Realms or within the Firestarter Discord server. Anything outside of that is out of our scope of moderation, and you are responsible for moderating yourself.
-* As soon as a conversation moves to private messages (DMs), we cannot moderate what happens. If the conversation is between a player and Firestarter Staff, any threats or messages intended to harm may result in punishment. This is for both the staff member and the player.
+* As soon as a conversation moves to private messages outside of the server (DMs), we cannot moderate what happens. If the conversation is between a player and Firestarter Staff, any threats or messages intended to harm may result in punishment. This is for both the staff member and the player.
 * The job of moderators is to moderate and enforce the rules. They are not necessarily here to help you with gameplay, such as assisting with your builds. Do not waste their time.
 
 ### Store purchases
