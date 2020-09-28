@@ -66,9 +66,9 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * Issuing false player reports is bannable.
 
 ### Alternate account usage (Alts)
-* Any two accounts playing on the same IP address may fall under this category. Staff will prompt you if they notice this.
 * Using alternate accounts to claim extra event rewards is bannable.
 * Sharing your account with other users is bannable.
+* Using alternate accounts to bypass bans will result in a permanent IP ban.
 
 ### Threats
 * Threatening to damage any part of the server, including its players, is strictly prohibited and will result in a ban.
