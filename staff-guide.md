@@ -58,9 +58,8 @@ __**Spreading misinformation/defamation:**__
 * Permanent ban - first offense
 
 __**Alternate account usage (Alts):**__
-* Warning - first offense
-* 1 month ban - second offense
-* Permanent ban - third offense
+* 1 month ban - gaining extra event rewards
+* Permanent IP ban - ban evasion
 
 __**Threats:**__
 * Permanent ban - first offense
