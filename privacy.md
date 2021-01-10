@@ -3,7 +3,7 @@
 
 Firestarter ("us", "we", or "our") operates https://firestartermc.com (the "Site"), https://store.firestartermc.com (the "Store"), the Firestarter Minecraft Realms (the "Server"), and the Firestarter Discord server (the "Discord Server"). This page informs you of our policies regarding the collection, use, and disclosure of personal information we collect from users of the Site and Server.
 
-By using the Site of playing on the Server (joining), you agree to the collection and use of the information in accordance with this policy.
+By using the Site or playing on the Server (joining), you agree to the collection and use of the information in accordance with this policy.
 
 ## Collected Data
 ### IP-addresses
