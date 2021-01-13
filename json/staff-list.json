@@ -17,6 +17,23 @@
         ]
     },
     {
+        "title": "🔥 Community Admins",
+        "color": "#fa5e5e",
+        "borderColor": "#eb5e5e",
+        "members": [
+            {
+                "uuid": "a9f951eb-e2e9-4c01-aab0-0a94190223e9",
+                "name": "Sleighter",
+                "quote": "a stray bullet finds a nut twice a day"
+            },
+            {
+                "uuid": "ea416375-37d0-4344-b1ea-f6acb370d21b",
+                "name": "Th3SkullR34p3r",
+                "quote": "hi i'm reaper and i'm the law"
+            }
+        ]
+    },
+    {
         "title": "🔨 Mods",
         "color": "#ffac7f",
         "borderColor": "#eb9b71",
@@ -30,16 +47,6 @@
                 "uuid": "375cd155-01a0-4382-8e25-0d6a6e62d1b6",
                 "name": "Meorah",
                 "quote": "meow"
-            },
-            {
-                "uuid": "a9f951eb-e2e9-4c01-aab0-0a94190223e9",
-                "name": "Sleighter",
-                "quote": "a stray bullet finds a nut twice a day"
-            },
-            {
-                "uuid": "ea416375-37d0-4344-b1ea-f6acb370d21b",
-                "name": "Th3SkullR34p3r",
-                "quote": "hi i'm reaper and i'm the law"
             }
         ]
     }
