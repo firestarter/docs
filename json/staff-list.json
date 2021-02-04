@@ -39,14 +39,29 @@
         "borderColor": "#eb9b71",
         "members": [
             {
+                "uuid": "5a00342f-9a5e-434a-9d9c-4aaf6f3576f9",
+                "name": "adriana0066",
+                "quote": "dont get youst to me"
+            },
+            {
                 "uuid": "d7043da0-13dd-491d-b4b4-3a5a8ac01b59",
                 "name": "DasBaumJunge",
                 "quote": "meorah stole my sox o_o"
             },
             {
+                "uuid": "e38a62cf-2cf9-4a29-950f-eeaf38369685",
+                "name": "GasLeak",
+                "quote": "how did I get here? who even am I?"
+            },
+            {
                 "uuid": "375cd155-01a0-4382-8e25-0d6a6e62d1b6",
                 "name": "Meorah",
                 "quote": "meow"
+            },
+            {
+                "uuid": "c7d07a2d-dfb8-4220-a8eb-1acfb152dc0b",
+                "name": "StarryNordic",
+                "quote": "if you can dodge a wrench, you can dodge a ball"
             }
         ]
     }
