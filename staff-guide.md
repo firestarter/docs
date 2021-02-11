@@ -79,7 +79,7 @@ Check via [Coreprotect](https://www.minerealm.com/community/viewtopic.php?f=32&t
 
 Make sure you have the evidence before you ban a player that is using a Modified client. Should the player be ruining the others experience by chat you can punish them before getting evidence since it will stay accessible.
 
-Is a player annoying someone with for example agressive pets or is building outside of anothers claim without their permission and they don't react on warnings, you can use `/spawn <username>` to force teleport them to spawn. Make sure this is the case before using the command.
+Is a player annoying someone with for example agressive pets or is building outside of anothers claim without their permission and they don't react on warnings, you can use `/spawn <username>` to force teleport them to spawn, Run this command twice to avoid them being able to return with `/back`. Make sure this is the case before using the command.
 
 Should you see another staff member potentially break a rule, contact them personally or an admin, do not act on your own against other staff.
 
