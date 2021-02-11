@@ -73,4 +73,14 @@ __**Drama and discussing punishments:**__
 __**Inappropriate skins and names:**__
 * Permanent ban - first offense (unban when resolved)
 
+Incase you see a person join which has banned accounts related to the same IP, check if this player just got banned a short while ago `/history <Red Player name in chat>`, should that be the case it is very likley to be ban evasion which resolves in a Permanent IP ban.
+
+Check via [Coreprotect](https://www.minerealm.com/community/viewtopic.php?f=32&t=6781) which player broke or placed which block, use this to get information about potential Griefs that are reported but happened in the past.
+
+Make sure you have the evidence before you ban a player that is using a Modified client. Should the player be ruining the others experience by chat you can punish them before getting evidence since it will stay accessible.
+
+Is a player annoying someone with for example agressive pets or is building outside of anothers claim without their permission and they don't react on warnings, you can use `/spawn <username>` to force teleport them to spawn, Run this command twice to avoid them being able to return with `/back`. Make sure this is the case before using the command.
+
+Should you see another staff member potentially break a rule, contact them personally or an admin, do not act on your own against other staff.
+
 If you need clarification on any of these, please either post in `#staff-chat` or contact an admin. After you have given out a punishment, please post evidence of the offense in the `#evidence` channel on our Discord server. This will help us keep track of punishments in case we need the evidence in the future.
