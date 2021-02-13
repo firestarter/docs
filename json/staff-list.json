@@ -5,11 +5,6 @@
         "borderColor": "#ed6f6f",
         "members": [
             {
-                "uuid": "358208f8-a671-41ed-abfa-4aa7371643fe",
-                "name": "EatingLongFruit",
-                "quote": "hi im fruit and im a bad admin."
-            },
-            {
                 "uuid": "facb6ce6-338c-4bad-981d-e3b24b3453f6",
                 "name": "TechToolbox",
                 "quote": "hi i'm tech and i exist. i also run the server."
