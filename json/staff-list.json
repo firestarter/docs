@@ -17,6 +17,11 @@
         "borderColor": "#eb5e5e",
         "members": [
             {
+                "uuid": "dd96e851-b3e8-4b0f-8618-29ec734251c6",
+                "name": "goofydev",
+                "quote": "-"
+            },
+            {
                 "uuid": "a9f951eb-e2e9-4c01-aab0-0a94190223e9",
                 "name": "Sleighter",
                 "quote": "a stray bullet finds a nut twice a day"
@@ -42,6 +47,11 @@
                 "uuid": "e38a62cf-2cf9-4a29-950f-eeaf38369685",
                 "name": "GasLeak",
                 "quote": "how did I get here? who even am I?"
+            },
+            {
+                "uuid": "fb4505d8-8c6f-4b7e-87a1-5ee47145a477",
+                "name": "mangled_potato",
+                "quote": "-"
             },
             {
                 "uuid": "375cd155-01a0-4382-8e25-0d6a6e62d1b6",
