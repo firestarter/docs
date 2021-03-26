@@ -24,8 +24,5 @@ Mobs are able to spawn within a radius of 48 blocks (3 chunks) of the player. In
 ### What is the render (view) distance?
 We have two types of view distances on the server. While a player is able to see 7 chunks around them, only 3 chunks of that radius is considered the actual render distance. Ticking will only occur within this 3 chunk radius, and anything outside will not update unless player moves into the area.
 
-### Why aren't my spawner mobs attacking?
-To greatly improve server performance, any mobs that are spawned from a mob spawner do not have AI (effectively "nerfed"). This prevents them from doing any action, including attacking,  pathfinding, or jumping in water.
-
 ### Why are pistons/explosions not working?
 Our claims plugin prevents piston block pushing and explosions outside of claim borders, and in the case of explosions, requires **explicitly** enabling claim explosions using `/claimexplosions`. This setting has to be re-enabled after every server reboot.
