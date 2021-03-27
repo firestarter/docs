@@ -33,7 +33,7 @@ Once your game has loaded and you're at the title screen of the game, simply sel
 ## Starting out on the server
 After you've explored the spawn to look at the various guides we've laid out, you'll want to make sure you're in a team. Open your inventory and in the very top-left of your screen, click the teams button. It looks like this: 
 
-![Teams button]()
+![Teams button](https://i.imgur.com/iiE3Ikq.png)
 
 You can also invite your friends to your team if you want to add them to your island!
 
