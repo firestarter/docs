@@ -73,6 +73,9 @@ __**Drama and discussing punishments:**__
 __**Inappropriate skins and names:**__
 * Permanent ban - first offense (unban when resolved)
 
+__**Illegal Activity:**__
+* Permanent IP ban - first offense
+
 Incase you see a person join which has banned accounts related to the same IP, check if this player just got banned a short while ago `/history <Red Player name in chat>`, should that be the case it is very likley to be ban evasion which resolves in a Permanent IP ban.
 
 Check via [Coreprotect](https://www.minerealm.com/community/viewtopic.php?f=32&t=6781) which player broke or placed which block, use this to get information about potential Griefs that are reported but happened in the past.
