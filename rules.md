@@ -15,7 +15,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 * Raiding unclaimed containers (chests, barrels, anything that stores items) is alright, so long as they are not shop chests.
 * Breaking blocks that you did not place, even in unclaimed lands, is bannable. This includes spawners that are not naturally generated.
 * If a player is offline for 3 or more months, you may ask an admin to unclaim one or more of their claims and you will be able to reclaim it. Right-click with a stick on the claimed area to check the age of the claim. Once the claim is yours, you are free to build, edit, or take items. If you lack the claimblocks to reclaim, you will be denied access to the claim until you are capable of claiming it. If another user comes along with enough claimblocks after you had already asked but lacked the claimblocks, the user with the ability to reclaim will be given it. You are free to unclaim these claims at any time.
-* It is your responsibility to claim your builds. If your builds are griefed, the griefer will be punished, but your builds will not be rolled back to their previous state.
+* It is your responsibility to claim your builds. If your builds are griefed, the griefer will be punished and you are eligible for a [rollback](rollbacks.md).
 * Creating lava casts, also frequently referred to as "cobble monsters," counts as griefing and is bannable.
 * Creating teleport traps, including those intended to kill players, is bannable.
   
