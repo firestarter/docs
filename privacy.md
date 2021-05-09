@@ -24,6 +24,5 @@ Cloudflare (Site and Store): https://www.cloudflare.com/privacypolicy/
 Tebex (Store): https://www.tebex.io/legal/privacy/  
 Discord (Discord Server): https://discord.com/new/privacy/
 
-<!--TODO ## Contact Us
-
-If you have any questions about the Privacy Policy, please contact us at privacy@firestartermc.com.-->
+## Contact Us
+If you have any questions about the Privacy Policy, please contact us at privacy@firestartermc.com.
