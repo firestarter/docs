@@ -2,7 +2,7 @@
 By playing on Firestarter Realms, you agree to the following rules. If you notice that someone is breaking any of the below rules, it is your responsibility to report it to the proper staff. If there are no staff online, use `/report` to send a report which can be handled once staff is available.
 
 ### Modified client
-* Use of [Badlion](https://client.badlion.net/) client, [OptiFine](https://www.optifine.net/home), and some mods such as [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap), [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap), and [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (along with other minimap mods that do not disclose underground blocks) is allowed.
+* Use of [Badlion](https://client.badlion.net/) client, [Lunar](https://www.lunarclient.com/) client, [OptiFine](https://www.optifine.net/home), and some mods such as [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap), [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap), and [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (along with other minimap mods that do not disclose underground blocks) is allowed.
 * Use of utility clients is bannable (no [Wurst](https://www.wurstclient.net/), [Aristois](https://aristois.net/), etc).
 * Some mods, such as [Tweakaroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo), are bannable if used on the server.
 
