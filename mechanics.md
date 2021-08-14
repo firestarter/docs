@@ -4,6 +4,9 @@ There are plenty of custom mechanics on Firestarter that we added to complement 
 ## Dragon elytra drops
 Every time the Ender Dragon is killed, it has a 50% chance to drop fully damaged elytra! These elytra can be repaired with phantom membranes to restore them to maximum durability, as per usual.
 
+## Lava sponges
+Placing a wet sponge near lava will turn nearby lava sources into cobblestone!
+
 ## Terracotta and wool redying
 Wool and terracotta of any color can be dyed to any other color of their respective block by simply using dye in a crafting grid. Surrounding any dye with 8 of any color terracotta will craft terracotta of the color of the dye.
 
