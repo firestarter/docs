@@ -6,9 +6,6 @@ Firestarter ("us", "we", or "our") operates https://firestartermc.com (the "Site
 By using the Site or playing on the Server (joining), you agree to the collection and use of the information in accordance with this policy.
 
 ## Collected Data
-### IP-addresses
-When connecting to the Site or Server, your IP-address will be logged. This data is used to locate alternate accounts. IP-addresses are checked against [proxycheck.io](https://proxycheck.io/)'s database to prevent abuse with proxies and VPNs (Virtual Private Networks).
-
 ### Server Interactions
 To allow us to provide better moderation, different interactions on the Server are logged. The following interactions are logged:
 * All chat messages, private messages, party messages, and marriage chat messages.
@@ -19,7 +16,6 @@ To allow us to provide better moderation, different interactions on the Server a
 ## Additional collected data
 The Site and Server make use of external tools and services to provide our services. These external tools and services also collect additional data. Please read their Privacy Policies for more information.
 
-proxycheck<span></span>.io (Server): https://proxycheck.io/privacy/  
 Cloudflare (Site and Store): https://www.cloudflare.com/privacypolicy/  
 Tebex (Store): https://www.tebex.io/legal/privacy/  
 Discord (Discord Server): https://discord.com/new/privacy/
