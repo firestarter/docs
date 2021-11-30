@@ -15,9 +15,6 @@ Similarly, placing any color wool and and one of any color dye will craft wool o
 ## Coal blocks from charcoal
 Coal blocks can be crafted with not only coal, but also charcoal. Simply fill the crafting grid with charcoal to craft a coal block.
 
-## Automated jukebox reloading
-Firing a dispenser with a disc into a jukebox will start playing the disc in the jukebox. Firing the dispenser again will eject the current disc in the jukebox. This mechanic can be automated with a clever setup.
-
 ## Picking up placed spawners
 Placed spawners can be picked up with their mob type in place by simply mining the spawner block with a Silk Touch enchanted pickaxe. Placing the dropped spawner will place it with its correct mob type, just like it was before it was mined.
 
