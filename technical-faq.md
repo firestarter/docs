@@ -25,4 +25,4 @@ Mobs are able to spawn within a radius of 48 blocks (3 chunks) of the player. In
 Our view distance is 7 chunks and our simulation distance is 3 chunks. Ticking will only occur within this 3 chunk radius, and anything outside will not update unless player moves into the area.
 
 ### Why are pistons/explosions not working?
-Our claims plugin prevents piston block pushing and explosions outside of claim borders, and in the case of explosions, requires **explicitly** enabling claim explosions using `/claimexplosions`. This setting has to be re-enabled after every server reboot.
+Our claims plugin prevents piston block pushing and explosions across claim borders, and in the case of explosions, requires **explicitly** enabling claim explosions using `/claimexplosions`. This setting has to be re-enabled after every server reboot.
