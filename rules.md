@@ -8,6 +8,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 
 ### Toxic behavior
 * Treat everyone with respect.
+* Any kind of sexual harassment in public and private chat is bannable.
 * Do not bully anyone.
 * Cursing is allowed, so long as it is not directed towards any particular person or figure.
 
@@ -66,8 +67,6 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 
 ### Alternate account usage (Alts)
 * Using alternate accounts to claim extra event rewards is bannable.
-* Sharing your account with other users is bannable.
-* Using alternate accounts to bypass bans will result in a permanent IP ban.
 
 ### Threats
 * Threatening to damage any part of the server, including its players, is strictly prohibited and will result in a ban.
