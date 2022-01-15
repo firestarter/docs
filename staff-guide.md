@@ -6,7 +6,7 @@ These are our standard punishment lengths for bans and mutes on the server. To c
 
 The following are the punishments for breaking any given category in the [rules](https://github.com/Firestarter/docs/blob/master/rules.md). Please use the titles of each category as the ban or mute reason.
 
-__**Modified clients:**__
+__**Blacklisted modifications:**__
 * 1 month ban - first offense
 * Permanent ban - second offense
 
