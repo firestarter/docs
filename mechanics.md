@@ -17,6 +17,3 @@ Coal blocks can be crafted with not only coal, but also charcoal. Simply fill th
 
 ## Picking up placed spawners
 Placed spawners can be picked up with their mob type in place by simply mining the spawner block with a Silk Touch enchanted pickaxe. Placing the dropped spawner will place it with its correct mob type, just like it was before it was mined.
-
-## Custom potions
-McMMO has tons of custom potion types which can be brewed in a brewing stand. View them [here](https://mcmmo.fandom.com/wiki/Alchemy).
